@@ -1,4 +1,10 @@
 Dette er en test fil som der skal testes Git funktioner med.
 
 
+Nyere linie 1
+Nyere linie 2
+Ny linie i test file i master spor.
+Nyere linie 4
+Nyere linie 5
 Ny linie indsat i br_new_files spor.
+
