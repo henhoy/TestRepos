@@ -1,1 +1,6 @@
 Dette er en test fil som der skal testes Git funktioner med.
+
+
+
+
+Ny linie indsat i br_new_files spor
